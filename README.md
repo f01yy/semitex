@@ -1,4 +1,5 @@
 # semitex
+Тестовое задание по верстке Webbooster
 Adaptive design
 ![image](https://user-images.githubusercontent.com/79443616/201526095-1dfcfee7-1c7f-41a6-ae6f-0407b2db1507.png)
 ![image](https://user-images.githubusercontent.com/79443616/201526325-ce1879fd-ee69-4d57-bf59-481b2543ac22.png)
