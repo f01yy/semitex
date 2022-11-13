@@ -185,7 +185,7 @@ header {
     margin: 0;
     position: fixed;
     top: 0;
-    bottom: -100px;
+    bottom: 0;
     left: 0;
     right: 0;
     font-size: 30px;
@@ -196,7 +196,7 @@ header {
   }
   .burger {
     display: inline;
-    position: absolute;
+    position: fixed;
     right: calc(50% - 20px);
     font-size: 30px;
     transform: rotate(90deg);
